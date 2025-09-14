@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Transformers (BERT/GPT)
+torch
+transformers
+
+# Visualization
+matplotlib
+seaborn
